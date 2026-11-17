@@ -90,7 +90,11 @@ One small reaction model shared by squad chat, DMs and feed comments. The server
 
 ## Contact
 
-Daniel Nwah · University of Maryland · [rankup.club](https://rankup.club)
+Daniel Nwah · University of Maryland
+
+- Portfolio: [daniel-nwah.vercel.app](https://daniel-nwah.vercel.app)
+- Email: [danielnwah123@gmail.com](mailto:danielnwah123@gmail.com)
+- App: [rankup.club](https://rankup.club)
 
 ---
 
