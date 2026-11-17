@@ -92,6 +92,7 @@ One small reaction model shared by squad chat, DMs and feed comments. The server
 
 Daniel Nwah · University of Maryland
 
+- LinkedIn: [linkedin.com/in/danielnwah](https://www.linkedin.com/in/danielnwah/)
 - Portfolio: [daniel-nwah.vercel.app](https://daniel-nwah.vercel.app)
 - Email: [danielnwah123@gmail.com](mailto:danielnwah123@gmail.com)
 - App: [rankup.club](https://rankup.club)
